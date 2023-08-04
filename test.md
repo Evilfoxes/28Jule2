@@ -15,4 +15,4 @@ there is info from master branch
 
 Hello from githab!
 
-Hello to Arthur Islamgulov Alexey Makarich
+Hello from Alexey Makarich
